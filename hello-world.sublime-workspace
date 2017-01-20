@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"content",
+				"justify-content"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text-st",
+				"text-decoration-style"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"font-siz",
+				"font-size-adjust"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"bar",
+				"background-color"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"x",
+				"xx-large"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"Gam",
+				"gamejolt"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"o",
+				"optimised"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 126,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MEGA - Local Folder/PROJECTS/Github/unity-space-shooter/.gitignore",
+		"/D/MEGA - Local Folder/PROJECTS/Github/unity-space-shooter/README.md",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Projects/Github/unity-space-shooter/README.md",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Projects/Github/unity-space-shooter/.gitignore",
+		"/D/MEGA - Local Folder/PROJECTS/Github/make-changes/.gitignore",
+		"/D/MEGA - Local Folder/PROJECTS/Github/make-changes/.gitattributes",
+		"/D/MEGA - Local Folder/PROJECTS/Game Maker Studio/3D Dungeon Test/Project Versions/Version 7/3D Dungeon Crawler.gmx/scripts/GenerateLevel.gml",
+		"/D/MEGA - Local Folder/PROJECTS/Game Maker Studio/3D Dungeon Test/Project Versions/Version 1/111 - DS Grids/scripts/GenerateLevel.gml",
+		"/C/Users/user/AppData/Roaming/pico-8/carts/mygames/squashy.p8",
+		"/D/SteamLibrary/steamapps/common/Undertale/credits.txt",
+		"/C/Users/user/AppData/Roaming/pico-8/carts/mygames/maptest.p8",
+		"/C/Users/user/AppData/Roaming/pico-8/carts/mygames/maptest.txt",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/Readme.txt",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/gba_bios.bin",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/SCPH7003.bin",
+		"/C/Users/user/Desktop/Emulation/new/gba/gba_bios.bin",
+		"/C/Users/user/Desktop/pico-8/+Start PICO-8.sh",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/runcommand.sh",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/es_systems.cfg",
+		"/C/Users/user/Desktop/pico-8/pico8.txt",
+		"/D/MEGA - Local Folder/BACKUP/rpi ip.txt",
+		"/D/itch.io/apps/Hydra/pico8gamepad.js",
+		"/D/itch.io/apps/Alone in Pico/aloneinpico.js",
+		"/D/ImageWriter/README.txt",
+		"/C/Users/user/Desktop/file1",
+		"/C/Users/user/Desktop/raspiscan",
+		"/C/Users/user/Desktop/rpi ip.txt",
+		"/C/Users/user/Desktop/PICOPI1/pico.pi",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.504/config.txt",
+		"/C/Users/user/Desktop/Emulation/GameBoy/ROMs/0999 - Castlevania - Aria of Sorrow (U)(GBATemp).sav",
+		"/D/MEGA - Local Folder/PROJECTS/Game Maker Studio/Rainwell - Director's Cut/Exports/0.1.0 Release/0.1.0-rainwell-release/README-v0.1.0.txt",
+		"/C/Users/user/AppData/Local/Temp/Rar$DIa0.736/README-v0.1.0.txt",
+		"/C/Users/user/AppData/Roaming/itch/cave-logs/cave-0491ada8-5fcd-49ee-bfa6-9d28cc43f5c0.txt",
+		"/D/Directories/Programs/Games/Pocket Mirror 1.2/READ ME.txt",
+		"/D/Directories/Programs/Games/Pocket Mirror 1.2/CHANGE LOG.txt",
+		"/D/Directories/Programs/Games/Pocket Mirror 1.2/TERMS OF USE.txt",
+		"/D/Directories/Programs/Software/VST Text to Speech/readme.txt",
+		"/C/Users/user/AppData/Local/Temp/Make A Game With No Experience.project.gmx.txt",
+		"/D/Directories/Programs/Software/Famitracker/readme.txt",
+		"/G/cmdline.txt",
+		"/D/Directories/Programs/Games/8BITar Hero/Readme.txt",
+		"/C/Users/user/AppData/Local/MakeAGameWithNoXP_19/player-progress.txt",
+		"/C/Users/user/AppData/Local/MakeAGameWithNoXP_19/player-inventory.txt",
+		"/C/Users/user/AppData/Local/MakeAGameWithNoXP_16/player-data.txt",
+		"/D/Directories/Programs/Games/Twitter Island/Readme.txt",
+		"/C/Users/user/Desktop/nativelog.txt",
+		"/D/MEGA - Local Folder/PROJECTS/Game Maker Studio/MakeAGameWithNoExperience/Project Iterations/README.txt",
+		"/D/Directories/Programs/Games/momodora2_v041/readme.txt",
+		"/D/MEGA - Local Folder/PROJECTS/Game Maker Studio/Rainwell - Director's Cut/Exports/0.1.0 Release/0.1.0-rainwell-release/README010.txt",
+		"/D/MEGA - Local Folder/PROJECTS/Game Maker Studio/Rainwell - Director's Cut/Exports/README010.txt",
+		"/D/MEGA - Local Folder/PROJECTS/Game Maker Studio/Rainwell - Director's Cut/Exports/README.txt",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/contact-me.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/css/main.css",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/index.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/skills.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/qualifications.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/experience.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/portfolio.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/hobbies-and-interests.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/css/hobbies-and-interests.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/Skills.txt",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Websites/lab6-starter-files/index.html",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Websites/lab6-starter-files/css/main.css",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/docs/profProjDev-positioning-3.pdf",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Professionalism and Project Development/CJC Assignment 3 - Professionalism and Project Development/Website/Files/css/styles.css",
+		"/C/Users/user/AppData/Roaming/v34_ItGD_Assessment_1/Save.sav",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Introduction to Games Development/Assignment 1 - ItGD/Game Maker Files/Project Versions/v34_ItGD_Assessment_2 - Menu Improvements/scripts/DrawTitleMenu.gml",
+		"/D/Google Drive - Local Folder/UNIVERSITY/1st Year/Assignments/Introduction to Games Development/Assignment 1 - ItGD/Game Maker Files/Project Versions/v34_ItGD_Assessment_2 - Menu Improvements/scripts/PlayerCanJump.gml",
+		"/C/Users/user/AppData/Roaming/v33_ItGD_Assessment_1/Save.sav",
+		"/C/Users/user/AppData/Local/Temp/Source.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".\n",
+			"br",
+			"none",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello-world.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
